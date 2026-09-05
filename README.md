@@ -1,4 +1,4 @@
-elenium Automation Framework
+Selenium Automation Framework
 Opis projekta
 
 Ovaj projekt predstavlja okvir za automatsko testiranje web aplikacije korištenjem programskog jezika Java i Selenium WebDriver alata.
